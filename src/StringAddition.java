@@ -1,0 +1,1 @@
+import java.math.BigInteger;public class StringAddition {    public static void main(String[] args) {        String a = "4" , b ="2"; //8        BigInteger val1 = new BigInteger(a);        BigInteger val2 = new BigInteger(b);        BigInteger result = val1.multiply(val2);        System.out.println(result);    }}
