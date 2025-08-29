@@ -1,0 +1,1 @@
+public class ReverseString {    public static void main(String[] args) {        String name ="Harsh";        StringBuilder reverse = new StringBuilder(name).reverse();        System.out.println(reverse);    }}
